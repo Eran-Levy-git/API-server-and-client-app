@@ -1,1 +1,1 @@
-# API-server-and-client-app
+# API server and client app
