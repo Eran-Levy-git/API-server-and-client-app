@@ -1,6 +1,6 @@
 ## API server and client app
 
-In a sentence: It is an API server that logs actions committed in https://github.com/Eran-Levy-git/demo repository.
+In a sentence: It is an API server that logs actions committed to https://github.com/Eran-Levy-git/demo repository.
 
 **Flow Chart Diagram:**
 
