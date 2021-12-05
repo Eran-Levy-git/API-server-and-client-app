@@ -8,3 +8,6 @@ made on the repository.
 The server Retrieves from the notification all of the pull request details and store it in mongoDB.
 
 Client-side grid lists all the pull requests details.
+
+
+<img width="704" alt="Screen Shot" src="https://user-images.githubusercontent.com/74136274/144747064-dfcc4584-e630-4aa3-81e4-f8399b7e43b2.png">
