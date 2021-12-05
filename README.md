@@ -4,7 +4,7 @@ In a sentence: It is an API server that logs actions committed in https://github
 
 **Flow Chart Diagram:**
 
-<img width="704" alt="Screen Shot" src="https://user-images.githubusercontent.com/74136274/144747064-dfcc4584-e630-4aa3-81e4-f8399b7e43b2.png">
+<img width="695" alt="Flow Chart Diagram - created using draw io" src="https://user-images.githubusercontent.com/74136274/144750472-e277b4f1-27db-4380-8ca7-b13e869c51cc.png">
 
 **Specifications:**
 
