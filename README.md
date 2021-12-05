@@ -11,6 +11,8 @@ In a sentence: It is an API server that logs actions committed in https://github
 Build with exspress js the API server receives notification from GitHub Webhook related to every pull request action that was
 made on the repository.
 
+I configure the URL for github webhook using ngrok so it needs to be updated every time rerunning the server.
+
 The server Retrieves from the notification all of the pull request details and store it in mongoDB using mongoose.
 
 Client-side grid lists all the pull requests details.
