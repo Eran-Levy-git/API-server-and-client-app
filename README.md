@@ -6,7 +6,8 @@ In a sentence: It is an API server that logs actions committed in https://github
 
 <img width="704" alt="Screen Shot" src="https://user-images.githubusercontent.com/74136274/144747064-dfcc4584-e630-4aa3-81e4-f8399b7e43b2.png">
 
-**Specification:**
+**Specifications:**
+
 Build with exspress js the API server receives notification from GitHub Webhook related to every pull request action that was
 made on the repository.
 
